@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Predict one post at a time.
   
   
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+baseurl: "/cards" # the subpath of your site, e.g. /blog
 url: "https://skamble6666.github.io" # the base hostname & protocol for your site
 
 #sidebar
