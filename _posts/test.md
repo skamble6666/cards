@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "Some title"
+categories: some category
+img: test_8_0.jpg
+---
+
+
+
 
 # This is trial of Jekyll theme man. Hope this works
 !!!
